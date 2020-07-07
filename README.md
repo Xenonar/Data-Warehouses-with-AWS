@@ -2,10 +2,8 @@
 
 ## Overview
 The schema for analyses Song play dataset from the start-up called Sparkify
-In this project, will build the ETL pipeline extracting from the dataset in S3 stage and transform them into a set of dimensional database 
 In this project, will build the ETL pipeline extracting from the dataset in the S3 stage and transform them into a set of dimensional database 
 for analytics team to continues analysis
-for the analytics team continues the analysis
 
 ## Datasets
 
